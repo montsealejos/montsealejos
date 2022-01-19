@@ -2,7 +2,7 @@
 - 👀 I’m interested in education and social interaction
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on an app
-- 📫 How to reach me montserrat@beyond.dev
+- 📫 How to reach me alejosp.m@gmail.com
 
 <!---
 montsealejos/montsealejos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
